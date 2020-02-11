@@ -1,3 +1,18 @@
 [submodule "hooks"]
 	path = hooks
 	url = https://github.com/kathusha/react-hooks.git
+[submodule "search-bar"]
+	path = search-bar
+	url = https://github.com/kathusha/react-example-search-bar.git
+[submodule "songs"]
+	path = songs
+	url = https://github.com/kathusha/react-songList.git
+[submodule "streams"]
+	path = streams
+	url = https://github.com/kathusha/react-streaming.git
+[submodule "posts"]
+	path = posts
+	url = https://github.com/kathusha/redux-thunk.git
+[submodule "video-app"]
+	path = video-app
+	url = https://github.com/kathusha/video-app-react.git
